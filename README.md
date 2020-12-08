@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <a href="https://github.com/VSAlmeida">
+    <img align="center" height='175' src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsalmeida&layout=compact" alt="Top Langs" />
+  </a>
+  <a href="https://github.com/VSAlmeida">
+    <img align="center" height='175'src="https://github-readme-stats.vercel.app/api?username=vsalmeida&show_icons=true&theme=default" alt="Github Stats"/>
+  </a>
+</div>
